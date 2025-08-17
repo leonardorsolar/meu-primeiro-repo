@@ -10,6 +10,7 @@ O objetivo deste estudo é conhecer o fluxo de trabalho nas organizações
 -   **Git:** Controle de versão do código-fonte e colaboração entre desenvolvedores.
 -   **GitHub:** Repositório centralizado para projetos, integração contínua e revisão de código.
 -   **Jira:** Gestão de projetos, acompanhamento de tarefas e planejamento ágil.
+-   **Devops:** Práticas e ferramentas que unem desenvolvimento e operações, automatizando testes, deploy e monitoramento de aplicações para aumentar eficiência e qualidade.
 
 ## ⚙️ Aplicação
 
