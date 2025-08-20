@@ -214,3 +214,13 @@ git merge nova-feature
 -   Use branches para organizar seu trabalho e evitar conflitos.
 
 ---
+
+# Estudo
+
+https://learngitbranching.js.org/?locale=pt_BR
+
+O site https://learngitbranching.js.org/?locale=pt_BR é uma ferramenta interativa e visual para aprender Git, focada especialmente no uso de branches (ramificações). Ele oferece uma maneira prática e divertida de entender conceitos fundamentais do Git, como commits, merges, rebases e resolução de conflitos, sem precisar instalar nada no seu computador.
+
+https://www.youtube.com/watch?v=6OokP-NE49k
+
+https://www.youtube.com/watch?v=6Czd1Yetaac
