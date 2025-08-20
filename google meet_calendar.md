@@ -37,6 +37,12 @@
 
     2. Registrar tarefas no **Jira** (criação ou atualização de tickets)
 
+    3. Tópicos principais a se tratar:
+        - Repassar as tarefas (feature) para cada dev
+        - Mostrar os protótipos antes da produção
+        - Discutir impedimentos
+        - Apresentar as entregas no ambiente de homologação
+
 -   Ferramenta usada: **Google Meet + Calendar para agendamento**
 
 ---
